@@ -6,7 +6,7 @@ console.log('extravaganza',x[11]);
 
 const food="The quick brown fox jumped over the lazy dog";
 let r = 'eat'
-console.log("The ${r} quick brown fox jumped over the lazy dog");
+console.log(`The ${r} quick brown fox jumped over the lazy dog);
 
 let s="wonderful"
 console.log(s.toUpperCase ("wonderful"));
